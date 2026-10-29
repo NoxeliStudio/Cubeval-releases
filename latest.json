@@ -1,0 +1,12 @@
+{
+  "build": 2,
+  "version": "1.1",
+  "title": "Cubeval 1.1",
+  "published": true,
+  "notes": "• Village et décors chibi faits main : maisons, four du forgeron, autel, fontaine, arbres et rochers\n• Tourbillon automatique toutes les 3 frappes\n• Vraie roulade\n• Visuels 3D des familiers dans les invocations et la collection\n• Mises à jour directement dans le jeu",
+  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-2.html",
+  "size": 2558720,
+  "apk_min": 2,
+  "apk_version": "1.1",
+  "apk_url": "https://github.com/NoxeliStudio/Cubeval-Releases/raw/main/apk/Cubeval-1.1.apk"
+}
