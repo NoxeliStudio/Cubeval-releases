@@ -1,11 +1,11 @@
 {
-  "build": 11,
-  "version": "1.10",
-  "title": "Cubeval 1.10",
+  "build": 12,
+  "version": "1.11",
+  "title": "Cubeval 1.11",
   "published": true,
-  "notes": "• Caméra : plus de zoom sur la tête près des bancs, de la fontaine ou des lampadaires\n• Nouvelle courbe des niveaux (ta progression en % est conservée)\n• Les monstres trop faibles (6 niveaux ou plus sous toi) rapportent peu et ne comptent plus pour les quêtes\n• Quête « Gagner de l'or » retirée, récompenses de quêtes rééquilibrées\n• Gardiens : gros butin à la 1re victoire, ensuite 2 min de repos et gains réduits s'il est trop faible pour toi",
+  "notes": "• Nouvelle installation des mises à jour depuis le jeu (corrige « problème lors de l'analyse du package »)\n• Caméra : plus de zoom sur la tête près des bancs, de la fontaine ou des lampadaires\n• Nouvelle courbe des niveaux (ta progression en % est conservée)\n• Les monstres trop faibles rapportent peu et ne comptent plus pour les quêtes\n• Gardiens : gros butin à la 1re victoire, ensuite 2 min de repos et gains réduits s'il est trop faible pour toi",
   "apk_min": 6,
-  "apk_version": "1.10",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.10.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.10.apk"
+  "apk_version": "1.11",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.11.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.11.apk"
 }
