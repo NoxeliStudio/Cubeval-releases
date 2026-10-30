@@ -1,11 +1,11 @@
 {
-  "build": 16,
-  "version": "1.15",
-  "title": "Cubeval 1.15",
+  "build": 17,
+  "version": "1.16",
+  "title": "Cubeval : Les Sept Gardiens — 1.16",
   "published": true,
-  "notes": "• Renaissance revue : chaque renaissance donne des plumes de phénix à placer dans un arbre (Puissance, Fortune, Confort), redistribuables gratuitement\n• Confort : renaître au niveau 10, 20 ou 30, garder ses emplacements de familiers, ses compétences ou l'accès aux zones\n• Élan du phénix : XP ×3 après une renaissance, qui diminue jusqu'à ton ancien niveau\n• Les anciennes renaissances sont converties : 4 plumes par renaissance et Élan actif",
+  "notes": "• Nouveau nom : Cubeval : Les Sept Gardiens\n• Écran-titre animé : le monde tourne autour de ton héros, avec Continuer, Personnaliser, Nouveautés, Réglages, Crédits et Quitter\n• Nouveautés des dernières versions consultables depuis l'écran-titre\n• Bouton retour d'Android sur l'écran-titre : quitte le jeu",
   "apk_min": 6,
-  "apk_version": "1.15",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.15.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.15.apk"
+  "apk_version": "1.16",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.16.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.16.apk"
 }
