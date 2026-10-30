@@ -1,11 +1,11 @@
 {
-  "build": 24,
-  "version": "1.23",
-  "title": "Cubeval : Les Sept Gardiens — 1.23",
+  "build": 27,
+  "version": "2.0",
+  "title": "Cubeval : Les Sept Gardiens — 2.0",
   "published": true,
-  "notes": "• Corrigé : l'aperçu du héros dans le Miroir et la personnalisation était vide\n• Corrigé : les tables de la maison et de la cuisine avaient pris la forme des tables rondes de l'auberge",
+  "notes": "• Cubeval devient un jeu de ferme : plus de combats ni de niveaux\n• Ta fée cultive son champ : défricher, labourer, semer, arroser, récolter\n• 4 saisons de 10 jours, météo, endurance, et le lit pour passer au lendemain\n• Coffre d'expédition, 7 outils améliorables, passages à réparer pour ouvrir les zones\n• Créatures paisibles à caresser, familiers gagnés en jouant\n• Cuisine, serre, confitures, couture et bain thermal\n• Nouvelle partie : l'ancienne sauvegarde est mise de côté, pas effacée",
   "apk_min": 6,
-  "apk_version": "1.23",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.23.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.23.apk"
+  "apk_version": "2.0",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.0.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.0.apk"
 }
