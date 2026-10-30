@@ -1,11 +1,11 @@
 {
-  "build": 14,
-  "version": "1.13",
-  "title": "Cubeval 1.13",
+  "build": 15,
+  "version": "1.14",
+  "title": "Cubeval 1.14",
   "published": true,
-  "notes": "• 3 nouveaux villages entre les zones : Oasis de Sablerive, Campement Givrecroc, Forteresse de Braise (habitants, quêtes, pierre de passage)\n• 7 passages secrets (murs fissurés, leviers, portail de nuit) menant à des grottes avec coffre, énigme et boss secret\n• 7 boss secrets : familiers exclusifs, reliques secrètes et titres\n• Lumécho, le village caché… sous un certain puits, la nuit\n• 5 nouvelles pièces du château : Bibliothèque, Laboratoire d'alchimie (potions), Armurerie (enchantements), Thermes, Observatoire",
+  "notes": "• 5 nouveaux niveaux de maison après le Château : Palais, Grand palais, Citadelle dorée, Palais de cristal, Château céleste\n• Plus prestigieux à chaque niveau, dehors (coupoles, tours, colonnades, fontaines, or, cristal, îles flottantes) comme dedans (grande salle agrandie, galeries de statues, lustres, fontaines intérieures)\n• Entraînement jusqu'au rang 500 et 6e bac dans la serre\n• Corrigé : coffre, étagère, râtelier et meubles qui bloquaient des portes de la maison (aile est, galerie des légendaires, bibliothèque, alchimie, armurerie, thermes)",
   "apk_min": 6,
-  "apk_version": "1.13",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.13.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.13.apk"
+  "apk_version": "1.14",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.14.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.14.apk"
 }
