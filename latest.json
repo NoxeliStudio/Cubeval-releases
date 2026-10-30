@@ -1,11 +1,11 @@
 {
-  "build": 32,
-  "version": "2.2",
-  "title": "Cubeval : La Ferme des Fées — 2.2",
+  "build": 35,
+  "version": "2.3",
+  "title": "Cubeval : La Ferme des Fées — 2.3",
   "published": true,
-  "notes": "• Cubeval devient « Cubeval : La Ferme des Fées »\n• Nouvelle icône de l'appli : ta petite fée devant son champ",
+  "notes": "• Outils entièrement redessinés : nouvelles icônes et nouveaux modèles\n• Ta fée porte ses outils sur l'épaule (l'arrosoir à bout de bras) : ils restent bien visibles, même de dos\n• Visée automatique : ta fée vise toute seule ce qui est autour d'elle (un carré jaune montre la cible)\n• Outil automatique : face à une branche, une pierre ou des herbes, elle prend l'outil qu'il faut\n• Gestes plus rapides : tu peux enchaîner les coups",
   "apk_min": 6,
-  "apk_version": "2.2",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.2.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.2.apk"
+  "apk_version": "2.3",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.3.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.3.apk"
 }
