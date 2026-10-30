@@ -1,13 +1,11 @@
 {
-  "build": 9,
-  "version": "1.8",
-  "title": "Cubeval 1.8",
+  "build": 10,
+  "version": "1.9",
+  "title": "Cubeval 1.9",
   "published": true,
-  "notes": "• Nouveaux modèles pour tous les monstres et toutes les ressources\n• Collisions au centimètre : plus de murs invisibles autour de la fontaine, des bancs, des lampadaires et des arbres\n• Écran de jeu dégagé : barre de vie en haut à gauche, titre de zone qui se replie\n• Sac : l'aperçu du héros ne cache plus les stats, prix d'amélioration lisible, chiffres centrés dans les barres\n• Expéditions de 1 h (le temps passe même jeu fermé), 1 ticket d'invocation à chaque retour\n• Le prix des invocations suit ta progression ; les tickets restent des invocations gratuites\n• Nombreuses corrections de cohérence (commandes tactiles, serre, cuisine, cadeau du jour…)",
-  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-9.html",
-  "size": 2752443,
+  "notes": "• Invocation façon ouverture de caisse : une bande de familiers défile et s'arrête sur ton tirage, puis le résultat s'affiche au centre\n• Expéditions automatiques toutes les 4 h (le temps passe aussi jeu fermé, 24 h max) : plus besoin de les lancer\n• Équiper un familier en expédition le rappelle\n• Corrections d'affichage",
   "apk_min": 6,
-  "apk_version": "1.8",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.8.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.8.apk"
+  "apk_version": "1.9",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.9.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.9.apk"
 }
