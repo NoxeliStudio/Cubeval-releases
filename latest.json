@@ -1,11 +1,11 @@
 {
-  "build": 15,
-  "version": "1.14",
-  "title": "Cubeval 1.14",
+  "build": 16,
+  "version": "1.15",
+  "title": "Cubeval 1.15",
   "published": true,
-  "notes": "• 5 nouveaux niveaux de maison après le Château : Palais, Grand palais, Citadelle dorée, Palais de cristal, Château céleste\n• Plus prestigieux à chaque niveau, dehors (coupoles, tours, colonnades, fontaines, or, cristal, îles flottantes) comme dedans (grande salle agrandie, galeries de statues, lustres, fontaines intérieures)\n• Entraînement jusqu'au rang 500 et 6e bac dans la serre\n• Corrigé : coffre, étagère, râtelier et meubles qui bloquaient des portes de la maison (aile est, galerie des légendaires, bibliothèque, alchimie, armurerie, thermes)",
+  "notes": "• Renaissance revue : chaque renaissance donne des plumes de phénix à placer dans un arbre (Puissance, Fortune, Confort), redistribuables gratuitement\n• Confort : renaître au niveau 10, 20 ou 30, garder ses emplacements de familiers, ses compétences ou l'accès aux zones\n• Élan du phénix : XP ×3 après une renaissance, qui diminue jusqu'à ton ancien niveau\n• Les anciennes renaissances sont converties : 4 plumes par renaissance et Élan actif",
   "apk_min": 6,
-  "apk_version": "1.14",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.14.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.14.apk"
+  "apk_version": "1.15",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.15.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.15.apk"
 }
