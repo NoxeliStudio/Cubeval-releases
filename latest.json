@@ -1,13 +1,13 @@
 {
-  "build": 6,
-  "version": "1.5",
-  "title": "Cubeval 1.5",
+  "build": 7,
+  "version": "1.6",
+  "title": "Cubeval 1.6",
   "published": true,
-  "notes": "• La fée est maintenant une vraie fée (plus un chat) : 7 couleurs de cheveux\n• Talents automatiques tous les 10 niveaux\n• Compléter l'index donne des bonus permanents\n• Une vraie porte de sortie dans la maison\n• Mises à jour téléchargées et installées depuis le jeu\n• Progression revue : la montée de niveau est plus longue, l'or et l'XP augmentent avec la profondeur des zones",
-  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-6.html",
-  "size": 2650248,
+  "notes": "• Nouvel écran de personnalisation : aperçu 3D qui tourne, yeux, motifs, coiffures, accessoires, couleur de tenue et d'armure, casque masquable\n• Les quêtes se valident toutes seules et donnent leur récompense tout de suite\n• Chaque zone de l'index donne ses propres bonus (XP, or, chance, attaque, PV, défense, critique)\n• Difficulté exponentielle : chaque zone est nettement plus dure, mais l'équipement, l'or et l'XP suivent",
+  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-7.html",
+  "size": 2663311,
   "apk_min": 6,
-  "apk_version": "1.5",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.5.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.5.apk"
+  "apk_version": "1.6",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.6.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.6.apk"
 }
