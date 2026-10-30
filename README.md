@@ -1,4 +1,4 @@
-# Cubeval – mises à jour
+# Cubeval : La Ferme des Fées – mises à jour
 
 Dépôt public lu par l'appli Android Cubeval pour se mettre à jour depuis le jeu.
 

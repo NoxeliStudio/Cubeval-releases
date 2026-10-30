@@ -1,11 +1,11 @@
 {
-  "build": 30,
-  "version": "2.1",
-  "title": "Cubeval : Les Sept Gardiens — 2.1",
+  "build": 32,
+  "version": "2.2",
+  "title": "Cubeval : La Ferme des Fées — 2.2",
   "published": true,
-  "notes": "• Animaux de la ferme : poulailler et étable chez Gaston, œufs, lait et laine\n• Cœurs des habitants : parle-leur et offre-leur des cadeaux, récompenses à 3, 6 et 10 cœurs\n• 4 festivals de saison, 17 nouveaux accessoires, 12 quêtes de la ferme\n• Les Sept Gardiens : un lieu secret et un esprit à apprivoiser derrière chaque passage\n• Pêche : canne chez Pépin, 19 poissons\n• Les habitants deviennent un peuple de fées, nouvelles icônes et nouveaux visuels",
+  "notes": "• Cubeval devient « Cubeval : La Ferme des Fées »\n• Nouvelle icône de l'appli : ta petite fée devant son champ",
   "apk_min": 6,
-  "apk_version": "2.1",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.1.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.1.apk"
+  "apk_version": "2.2",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.2.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.2.apk"
 }
