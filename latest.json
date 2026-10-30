@@ -1,11 +1,11 @@
 {
-  "build": 19,
-  "version": "1.18",
-  "title": "Cubeval : Les Sept Gardiens — 1.18",
+  "build": 20,
+  "version": "1.19",
+  "title": "Cubeval : Les Sept Gardiens — 1.19",
   "published": true,
-  "notes": "• Moins de quêtes d'habitants : 2 demandes du quotidien au plus à la fois dans tout le monde, une nouvelle toutes les 12 min\n• Chaque habitant attend 20 min avant de te redemander un service\n• Les objets de quête ont leur vrai visuel : fleur, colis, esprit, fragment de carte, éclat d'étoile, seau, tablette, rune… avec leur nom au-dessus",
+  "notes": "• Passages secrets entièrement revus : chaque zone a sa propre façon de s'ouvrir (pierres chantantes, feu follet nocturne, cadran solaire, cristaux à faire chanter ensemble, flamme à porter, gardiens de braise, portail de minuit)\n• Sept vraies énigmes, toutes différentes : cycle de l'arbre, mélodie à rejouer, cinq feux liés, cristaux à aligner, glace glissante, braises des nombres premiers, sceaux menteurs\n• L'Ermite et les habitants ne donnent plus l'emplacement des passages, seulement des indices\n• Les passages et énigmes déjà résolus restent ouverts",
   "apk_min": 6,
-  "apk_version": "1.18",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.18.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.18.apk"
+  "apk_version": "1.19",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.19.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.19.apk"
 }
