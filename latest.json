@@ -1,12 +1,13 @@
 {
-  "build": 5,
-  "version": "1.4",
-  "title": "Cubeval 1.4",
+  "build": 6,
+  "version": "1.5",
+  "title": "Cubeval 1.5",
   "published": true,
-  "notes": "• Le jeu continue quand un menu est ouvert : le menu s'ouvre sur le côté et ton héros reste visible\n• Nouveaux menus : icônes 3D des objets, ressources et monstres, fiches détaillées, interrupteurs\n• 5 nouvelles pièces à construire dans ta maison : cuisine (plats bonus), atelier de teinture, serre (récoltes en temps réel), écurie (dressage des familiers), galerie des légendaires",
-  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-5.html",
-  "size": 2640022,
-  "apk_min": 2,
-  "apk_version": "1.4",
-  "apk_url": "https://github.com/NoxeliStudio/Cubeval-Releases/raw/main/apk/Cubeval-1.4.apk"
+  "notes": "• La fée est maintenant une vraie fée (plus un chat) : 7 couleurs de cheveux\n• Talents automatiques tous les 10 niveaux\n• Compléter l'index donne des bonus permanents\n• Une vraie porte de sortie dans la maison\n• Mises à jour téléchargées et installées depuis le jeu\n• Progression revue : la montée de niveau est plus longue, l'or et l'XP augmentent avec la profondeur des zones",
+  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-6.html",
+  "size": 2650248,
+  "apk_min": 6,
+  "apk_version": "1.5",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.5.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.5.apk"
 }
