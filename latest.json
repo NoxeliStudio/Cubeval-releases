@@ -1,13 +1,13 @@
 {
-  "build": 8,
-  "version": "1.7",
-  "title": "Cubeval 1.7",
+  "build": 9,
+  "version": "1.8",
+  "title": "Cubeval 1.8",
   "published": true,
-  "notes": "• 7 gardiens de zone avec attaques annoncées au sol : esquive-les en roulade ! Battre un gardien ouvre la zone suivante\n• Reliques uniques (vol de vie, embrasement, éclair, givre, bouclier, pluie d'or, coup fatal) à améliorer avec des éclats\n• 4 compétences actives : Bond, Soin, Séisme, Rage\n• Amélioration des objets jusqu'à +10 et bonus de panoplie\n• Les familiers attaquent et partent en expédition\n• Cadeau du jour, succès, titres et salle des trophées\n• Renaissance au niveau 100, mini-carte et ambiance sonore par zone",
-  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-8.html",
-  "size": 2729003,
+  "notes": "• Nouveaux modèles pour tous les monstres et toutes les ressources\n• Collisions au centimètre : plus de murs invisibles autour de la fontaine, des bancs, des lampadaires et des arbres\n• Écran de jeu dégagé : barre de vie en haut à gauche, titre de zone qui se replie\n• Sac : l'aperçu du héros ne cache plus les stats, prix d'amélioration lisible, chiffres centrés dans les barres\n• Expéditions de 1 h (le temps passe même jeu fermé), 1 ticket d'invocation à chaque retour\n• Le prix des invocations suit ta progression ; les tickets restent des invocations gratuites\n• Nombreuses corrections de cohérence (commandes tactiles, serre, cuisine, cadeau du jour…)",
+  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-9.html",
+  "size": 2752443,
   "apk_min": 6,
-  "apk_version": "1.7",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.7.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.7.apk"
+  "apk_version": "1.8",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.8.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.8.apk"
 }
