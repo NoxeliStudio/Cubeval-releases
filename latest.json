@@ -1,11 +1,11 @@
 {
-  "build": 21,
-  "version": "1.20",
-  "title": "Cubeval : Les Sept Gardiens — 1.20",
+  "build": 22,
+  "version": "1.21",
+  "title": "Cubeval : Les Sept Gardiens — 1.21",
   "published": true,
-  "notes": "• Plus aucun décor qui en traverse un autre : pierre de passage de l'Oasis et de la Forteresse, palmier dans une maison, pots et tonneaux collés aux murs, arbres serrés les uns dans les autres, bougies posées sur des plantes…\n• Les arbres, rochers et cactus vérifient désormais qu'ils ont la place avant d'apparaître\n• Sol aplani sous les pierres de passage et les lieux marquants des zones",
+  "notes": "• Familiers rééquilibrés en pyramide : 15 Communs, 11 Rares, 8 Épiques, 6 Légendaires, 4 Mythiques, 2 Secrets\n• 18 nouveaux familiers à invoquer : Moineau, Caneton, Souriceau, Hérisson, Grenouille, Escargot, Bolet, Coccinelle, Lapin gris, Chaton tigré, Biscotte, Mouton, Écureuil, Pingouin, Raton laveur, Lièvre des neiges, Salamandre, Feu follet\n• Les familiers exclusifs ont un rang selon la difficulté pour les obtenir (boss secrets des premières zones : Épique, de l'Abîme : Mythique)\n• Galerie des légendaires réorganisée",
   "apk_min": 6,
-  "apk_version": "1.20",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.20.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.20.apk"
+  "apk_version": "1.21",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.21.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.21.apk"
 }
