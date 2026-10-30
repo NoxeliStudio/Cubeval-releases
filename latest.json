@@ -1,13 +1,13 @@
 {
-  "build": 7,
-  "version": "1.6",
-  "title": "Cubeval 1.6",
+  "build": 8,
+  "version": "1.7",
+  "title": "Cubeval 1.7",
   "published": true,
-  "notes": "• Nouvel écran de personnalisation : aperçu 3D qui tourne, yeux, motifs, coiffures, accessoires, couleur de tenue et d'armure, casque masquable\n• Les quêtes se valident toutes seules et donnent leur récompense tout de suite\n• Chaque zone de l'index donne ses propres bonus (XP, or, chance, attaque, PV, défense, critique)\n• Difficulté exponentielle : chaque zone est nettement plus dure, mais l'équipement, l'or et l'XP suivent",
-  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-7.html",
-  "size": 2663311,
+  "notes": "• 7 gardiens de zone avec attaques annoncées au sol : esquive-les en roulade ! Battre un gardien ouvre la zone suivante\n• Reliques uniques (vol de vie, embrasement, éclair, givre, bouclier, pluie d'or, coup fatal) à améliorer avec des éclats\n• 4 compétences actives : Bond, Soin, Séisme, Rage\n• Amélioration des objets jusqu'à +10 et bonus de panoplie\n• Les familiers attaquent et partent en expédition\n• Cadeau du jour, succès, titres et salle des trophées\n• Renaissance au niveau 100, mini-carte et ambiance sonore par zone",
+  "html_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/game/cubeval-8.html",
+  "size": 2729003,
   "apk_min": 6,
-  "apk_version": "1.6",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.6.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.6.apk"
+  "apk_version": "1.7",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.7.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.7.apk"
 }
