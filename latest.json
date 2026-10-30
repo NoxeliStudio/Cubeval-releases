@@ -1,11 +1,11 @@
 {
-  "build": 20,
-  "version": "1.19",
-  "title": "Cubeval : Les Sept Gardiens — 1.19",
+  "build": 21,
+  "version": "1.20",
+  "title": "Cubeval : Les Sept Gardiens — 1.20",
   "published": true,
-  "notes": "• Passages secrets entièrement revus : chaque zone a sa propre façon de s'ouvrir (pierres chantantes, feu follet nocturne, cadran solaire, cristaux à faire chanter ensemble, flamme à porter, gardiens de braise, portail de minuit)\n• Sept vraies énigmes, toutes différentes : cycle de l'arbre, mélodie à rejouer, cinq feux liés, cristaux à aligner, glace glissante, braises des nombres premiers, sceaux menteurs\n• L'Ermite et les habitants ne donnent plus l'emplacement des passages, seulement des indices\n• Les passages et énigmes déjà résolus restent ouverts",
+  "notes": "• Plus aucun décor qui en traverse un autre : pierre de passage de l'Oasis et de la Forteresse, palmier dans une maison, pots et tonneaux collés aux murs, arbres serrés les uns dans les autres, bougies posées sur des plantes…\n• Les arbres, rochers et cactus vérifient désormais qu'ils ont la place avant d'apparaître\n• Sol aplani sous les pierres de passage et les lieux marquants des zones",
   "apk_min": 6,
-  "apk_version": "1.19",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.19.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.19.apk"
+  "apk_version": "1.20",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.20.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.20.apk"
 }
