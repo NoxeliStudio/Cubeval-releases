@@ -1,11 +1,11 @@
 {
-  "build": 22,
-  "version": "1.21",
-  "title": "Cubeval : Les Sept Gardiens — 1.21",
+  "build": 23,
+  "version": "1.22",
+  "title": "Cubeval : Les Sept Gardiens — 1.22",
   "published": true,
-  "notes": "• Familiers rééquilibrés en pyramide : 15 Communs, 11 Rares, 8 Épiques, 6 Légendaires, 4 Mythiques, 2 Secrets\n• 18 nouveaux familiers à invoquer : Moineau, Caneton, Souriceau, Hérisson, Grenouille, Escargot, Bolet, Coccinelle, Lapin gris, Chaton tigré, Biscotte, Mouton, Écureuil, Pingouin, Raton laveur, Lièvre des neiges, Salamandre, Feu follet\n• Les familiers exclusifs ont un rang selon la difficulté pour les obtenir (boss secrets des premières zones : Épique, de l'Abîme : Mythique)\n• Galerie des légendaires réorganisée",
+  "notes": "• Menu repensé : rangé en 3 familles (Ton héros, Aventure, Chez toi), une ligne d'explication sous chaque entrée et des badges quand quelque chose t'attend\n• Nouvel écran Titres : tous les titres du jeu, comment les obtenir, et un toucher pour l'afficher\n• Ton titre s'affiche maintenant au-dessus de ton héros, en plus de sous ton pseudo\n• La Renaissance a son propre écran ; la fiche Héros donne accès aux titres et à l'apparence",
   "apk_min": 6,
-  "apk_version": "1.21",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.21.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.21.apk"
+  "apk_version": "1.22",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.22.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.22.apk"
 }
