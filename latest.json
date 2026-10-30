@@ -1,11 +1,11 @@
 {
-  "build": 18,
-  "version": "1.17",
-  "title": "Cubeval : Les Sept Gardiens — 1.17",
+  "build": 19,
+  "version": "1.18",
+  "title": "Cubeval : Les Sept Gardiens — 1.18",
   "published": true,
-  "notes": "• Difficulté revue à partir de la zone 2 : les monstres encaissent et frappent plus fort, surtout dès la zone 3\n• Gardiens plus résistants : il faut esquiver leurs attaques pour les battre\n• Les monstres plus solides rapportent plus d'XP et d'or\n• Corrigé : objets de quête posés sur un plateau ou collés à une pierre de passage (impossibles à ramasser)\n• Corrigé : images manquantes de 5 pièces dans les plans de la maison",
+  "notes": "• Moins de quêtes d'habitants : 2 demandes du quotidien au plus à la fois dans tout le monde, une nouvelle toutes les 12 min\n• Chaque habitant attend 20 min avant de te redemander un service\n• Les objets de quête ont leur vrai visuel : fleur, colis, esprit, fragment de carte, éclat d'étoile, seau, tablette, rune… avec leur nom au-dessus",
   "apk_min": 6,
-  "apk_version": "1.17",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.17.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.17.apk"
+  "apk_version": "1.18",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.18.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.18.apk"
 }
