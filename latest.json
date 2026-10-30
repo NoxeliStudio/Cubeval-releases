@@ -1,11 +1,11 @@
 {
-  "build": 13,
-  "version": "1.12",
-  "title": "Cubeval 1.12",
+  "build": 14,
+  "version": "1.13",
+  "title": "Cubeval 1.13",
   "published": true,
-  "notes": "• Le village est deux fois plus grand : marché, auberge du Chat Repu, parc et étang, puits, kiosque, quartier des maisons\n• 13 habitants vivants avec leur métier, leurs habitudes et leurs bulles de dialogue\n• Cycle jour/nuit de 20 min : les habitants rentrent chez eux le soir, d'autres n'apparaissent que la nuit\n• Quêtes des habitants : Communes, Rares, Épiques, Légendaires… et Secrètes\n• 3 familiers exclusifs à gagner en quête",
+  "notes": "• 3 nouveaux villages entre les zones : Oasis de Sablerive, Campement Givrecroc, Forteresse de Braise (habitants, quêtes, pierre de passage)\n• 7 passages secrets (murs fissurés, leviers, portail de nuit) menant à des grottes avec coffre, énigme et boss secret\n• 7 boss secrets : familiers exclusifs, reliques secrètes et titres\n• Lumécho, le village caché… sous un certain puits, la nuit\n• 5 nouvelles pièces du château : Bibliothèque, Laboratoire d'alchimie (potions), Armurerie (enchantements), Thermes, Observatoire",
   "apk_min": 6,
-  "apk_version": "1.12",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.12.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.12.apk"
+  "apk_version": "1.13",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.13.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.13.apk"
 }
