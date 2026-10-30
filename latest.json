@@ -1,11 +1,11 @@
 {
-  "build": 12,
-  "version": "1.11",
-  "title": "Cubeval 1.11",
+  "build": 13,
+  "version": "1.12",
+  "title": "Cubeval 1.12",
   "published": true,
-  "notes": "• Nouvelle installation des mises à jour depuis le jeu (corrige « problème lors de l'analyse du package »)\n• Caméra : plus de zoom sur la tête près des bancs, de la fontaine ou des lampadaires\n• Nouvelle courbe des niveaux (ta progression en % est conservée)\n• Les monstres trop faibles rapportent peu et ne comptent plus pour les quêtes\n• Gardiens : gros butin à la 1re victoire, ensuite 2 min de repos et gains réduits s'il est trop faible pour toi",
+  "notes": "• Le village est deux fois plus grand : marché, auberge du Chat Repu, parc et étang, puits, kiosque, quartier des maisons\n• 13 habitants vivants avec leur métier, leurs habitudes et leurs bulles de dialogue\n• Cycle jour/nuit de 20 min : les habitants rentrent chez eux le soir, d'autres n'apparaissent que la nuit\n• Quêtes des habitants : Communes, Rares, Épiques, Légendaires… et Secrètes\n• 3 familiers exclusifs à gagner en quête",
   "apk_min": 6,
-  "apk_version": "1.11",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.11.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.11.apk"
+  "apk_version": "1.12",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.12.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-1.12.apk"
 }
