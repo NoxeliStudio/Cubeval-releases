@@ -1,11 +1,11 @@
 {
-  "build": 41,
-  "version": "2.5",
-  "title": "Cubeval : La Ferme des Fées — 2.5",
+  "build": 45,
+  "version": "2.6",
+  "title": "Cubeval : La Ferme des Fées — 2.6",
   "published": true,
-  "notes": "• Nouvelle musique façon Harvest Moon : un thème par saison (flûte au printemps, ocarina et ukulélé en été, valse à la clarinette en automne, boîte à musique en hiver)\n• Version douce la nuit et les jours de pluie, version enjouée les jours de fête\n• Ambiance : oiseaux le jour, grillons la nuit, pluie et vent d'hiver, assourdis dans les maisons\n• Musique et sons se mettent en pause quand l'appli passe en arrière-plan\n• Appli plus légère : la musique est jouée en direct au lieu d'un gros fichier",
+  "notes": "• Une histoire façon Harvest Moon : l'héritage de Mamie Églantine, en 11 chapitres\n• Le Grand Arbre, au fond de la ferme, reprend vie à chaque Esprit gardien réveillé\n• Une lettre de Mamie au début de chaque saison\n• Au bout de 3 ans, le bilan de Mamie et 4 fins possibles (on continue à jouer après)\n• Nouveau journal « Histoire » dans le menu : objectifs, chapitres et lettres à relire\n• Une quête d'histoire par chapitre : lettres perdues, chasse à la luciole la nuit, cartes déchirées, le marteau et la couronne de Mamie…\n• Récompenses uniques : 2 familiers, 2 accessoires et des titres\n• Les habitants qui ont une page d'histoire pour toi portent un ✦ rose\n• Guidage : une flèche rose au sol et une balise montrent où aller, avec un repère sur la mini-carte\n• Touche l'objectif en haut de l'écran pour ouvrir la carte (et voyager par la pierre de passage)",
   "apk_min": 6,
-  "apk_version": "2.5",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.5.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.5.apk"
+  "apk_version": "2.6",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.6.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.6.apk"
 }
