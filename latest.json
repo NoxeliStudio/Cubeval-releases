@@ -1,11 +1,11 @@
 {
-  "build": 39,
-  "version": "2.4",
-  "title": "Cubeval : La Ferme des Fées — 2.4",
+  "build": 41,
+  "version": "2.5",
+  "title": "Cubeval : La Ferme des Fées — 2.5",
   "published": true,
-  "notes": "• Tous les outils passent en pixel art, façon blocs : mêmes dessins en icône et dans la main de ta fée\n• Outils plus petits et plus naturels\n• Comme dans Harvest Moon, ta fée sort son outil seulement quand elle s'en sert (l'arrosoir se penche pour arroser)",
+  "notes": "• Nouvelle musique façon Harvest Moon : un thème par saison (flûte au printemps, ocarina et ukulélé en été, valse à la clarinette en automne, boîte à musique en hiver)\n• Version douce la nuit et les jours de pluie, version enjouée les jours de fête\n• Ambiance : oiseaux le jour, grillons la nuit, pluie et vent d'hiver, assourdis dans les maisons\n• Musique et sons se mettent en pause quand l'appli passe en arrière-plan\n• Appli plus légère : la musique est jouée en direct au lieu d'un gros fichier",
   "apk_min": 6,
-  "apk_version": "2.4",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.4.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.4.apk"
+  "apk_version": "2.5",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.5.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.5.apk"
 }
