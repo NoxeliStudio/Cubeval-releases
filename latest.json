@@ -1,11 +1,11 @@
 {
-  "build": 47,
-  "version": "2.6.1",
-  "title": "Cubeval : La Ferme des Fées — 2.6.1",
+  "build": 50,
+  "version": "2.7",
+  "title": "Cubeval : La Ferme des Fées — 2.7",
   "published": true,
-  "notes": "• Nouvelle flèche de guidage : une pointe rose bien lisible\n• Toucher la mini-carte ouvre la carte avec ton objectif (le voyage par les pierres de passage reste accessible depuis la carte)",
+  "notes": "• Contrées agrandies : plus de place à explorer, plus de créatures, de branches, de pierres et de nouveaux buissons de cueillette\n• Endurance revue : les outils fatiguent environ deux fois moins, réserve plus grande, et elle remonte doucement quand tu te reposes\n• La carte se fait glisser pour voir tout le monde, et elle nomme les lieux (forge, ta maison, ton champ, marché, temple…)\n• Boutiques : choisis la quantité avant d'acheter, avec le prix total\n• Familiers redessinés : hérisson à piquants, coccinelle, scarabée, grenouille, escargot, hibou, pingouin, fée, golems…\n• Créatures plus réalistes : scarabée des bois, crabe des sables, chameau, feu follet, phalène\n• Nouvelles tenues (salopette, tablier, robe de pétales, cape d'hiver, robe de fête) et nouvelles ailes (papillon, libellule, feuilles, pétales, étoiles), chacune avec ses couleurs, au miroir\n• Cuisine libre : mets 1 à 4 ingrédients de ton choix dans la marmite, le plat dépend de ce que tu mets ; 20 nouvelles recettes et un carnet pour les retrouver\n• Maisons réaménagées : une vraie chambre, un séjour, une salle du trône… plus aucun meuble collé à un autre ou devant une porte\n• La fontaine du village a de l'eau\n• Tu ne peux plus rester coincée dans un mur ou un décor",
   "apk_min": 6,
-  "apk_version": "2.6.1",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.6.1.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.6.1.apk"
+  "apk_version": "2.7",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.7.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.7.apk"
 }
