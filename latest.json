@@ -1,11 +1,11 @@
 {
-  "build": 53,
-  "version": "2.7.1",
-  "title": "Cubeval : La Ferme des Fées — 2.7.1",
+  "build": 54,
+  "version": "2.8",
+  "title": "Cubeval : La Ferme des Fées — 2.8",
   "published": true,
-  "notes": "• Ta fée ne reste plus rose quand elle est fatiguée\n• Endurance : elle remonte en continu, et vite dès que tu te reposes quelques secondes\n• Chaque créature donne sa propre matière : gelée pour les gelées, soies pour les marcassins, poil pour les renards, élytres pour les scarabées, bois pour les cerfs…\n• Matières renommées et redessinées pour coller aux créatures\n• Les buissons sauvages donnent du fourrage et parfois des graines\n• Le sanctuaire des familiers est de retour : invoque un familier chez la Prêtresse (500 or, ×10 pour 4 500 or), un Légendaire garanti toutes les 60 invocations\n• Montures : chevauche n'importe quel familier (bouton Monter, ou touche R) pour aller plus vite",
+  "notes": "• Quêtes vérifiées : une demande n'est proposée que si elle est faisable à la saison en cours, et plus aucune ne mélange deux saisons\n• Canne à pêche : Pépin te la taille contre 8 bois et 4 pierres (quête « Ta première canne »), ou tu l'achètes 1 000 or\n• Offrandes des Esprits et quêtes de l'histoire acceptent maintenant n'importe quelle récolte (ou de la laine de yéti) : plus d'attente d'une saison précise\n• Chaque genre de quête a son allure : annonce du jour, livraison, cueillette, cuisine, pêche, exploration, courrier, rendez-vous nocturne, histoire de Mamie, secret\n• Demandes du quotidien bien plus variées : chaque habitant a ses genres (matières, récoltes de saison, plats, poissons, livraisons, petites courses) avec plusieurs titres et répliques\n• Graines : prends le sachet dans la barre d'outils et choisis directement tes graines dans la rangée qui apparaît au-dessus, plus besoin d'ouvrir le sac\n• Menu épuré : l'essentiel en grand (Histoire, Quêtes, Sac, Carte, Familiers, Voyage), ta ferme au milieu, le reste en petites icônes\n• Le village s'agrandit et respire : place de la fontaine plus large, quartier de maisons avec perrons et massifs de fleurs, grand marché, terrasse de l'auberge, parc, allées d'arbres, potagers et bannières\n• Personnalisation complète du visage : couleur de peau, forme des yeux (ronds, en amande, de chat, étoilés, rieurs, clin d'œil…), yeux vairons, sourcils, bouche, joues, oreilles, petites marques, mèches colorées, 5 nouvelles coiffures et un bouton « Au hasard »\n• Nouvelle carte : des contrées bien plus larges et plus longues, aux bords irréguliers, avec un chemin qui serpente différemment dans chacune\n• Bosquets serrés et grandes clairières, bassins et lieux marquants à l'écart du chemin, plus de créatures et de ressources à récolter\n• Scierie et Carrière : deux ateliers à bâtir de part et d'autre de ta maison (portillons dans la clôture), qui produisent bois, pierre et minerais chaque nuit, jusqu'au niveau 5\n• Chaque ressource du sac explique maintenant à quoi elle sert (couture, offrandes, maison, outils, passages, cuisine, prix de vente…)\n• Familiers refaits : Souriceau (vraie petite souris), lapins, champignons, poussin, feu follet, dragons, griffon, hydre à trois têtes, phénix, esprits et Cube cosmique ont enfin leur propre silhouette",
   "apk_min": 6,
-  "apk_version": "2.7.1",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.7.1.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.7.1.apk"
+  "apk_version": "2.8",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.8.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.8.apk"
 }
