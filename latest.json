@@ -1,11 +1,11 @@
 {
-  "build": 58,
-  "version": "2.12",
-  "title": "Cubeval : La Ferme des Fées — 2.12",
+  "build": 59,
+  "version": "2.13",
+  "title": "Cubeval : La Ferme des Fées — 2.13",
   "published": true,
-  "notes": "• Amélioration ultime de la maison : le Palais de l'Arbre-Monde. Ton château céleste est bâti dans les racines d'un arbre géant qui perce le dôme et touche le ciel\n• Une couronne de feuillage féerique (rose, lilas, or, menthe) couvre la maison, des fruits d'or y brillent, deux cascades tombent dans les fontaines, un arc-en-ciel enjambe l'entrée, une aurore ondule tout en haut et des lueurs dorées tombent en pluie\n• Deux nouvelles ailes : le Sanctuaire de l'Arbre (un jeune Arbre-Monde qui donne 2 fruits d'or par jour, 3 000 or pièce) et le Jardin suspendu (îles flottantes, cascade, pont arc-en-ciel)\n• Le Sablier céleste du Jardin suspendu remonte le temps de 2 h une fois par jour · dans l'Arbre-Monde, tu te lèves chaque matin à 5 h\n• Coût : 25 000 000 or, 150 et 80 matières du Jardin des étoiles, 40 matières rares des Terres volcaniques\n• Façades refaites : le château passe en pierre blonde avec toits bleu roi, lierre, fleurs, blason, porte cloutée d'or et lanternes ; les palais ont des toits colorés, des frises, des pilastres, des volets, des jardinières et des massifs fleuris\n• Couleurs des accessoires réparées : 12 vraies teintes (avant, la plupart des pastilles donnaient du noir), plus arc-en-ciel et changeante\n• Cils redessinés : de fines mèches recourbées au coin de l'œil (courts, longs ou papillon)\n• Prairie des bêtes : le sol ne disparaît plus quand on s'approche du poulailler ou de l'étable (et plus généralement, les grands décors ne s'effacent plus selon l'angle de la caméra)\n• Bruit de la pluie bien plus doux : un murmure feutré au lieu du souffle fort et aigu",
+  "notes": "• Palais de l'Arbre-Monde : la couronne de l'arbre est plus basse, bien visible depuis le village, et la caméra lève doucement les yeux vers elle quand tu marches vers ta maison",
   "apk_min": 6,
-  "apk_version": "2.12",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.12.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.12.apk"
+  "apk_version": "2.13",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.13.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.13.apk"
 }
