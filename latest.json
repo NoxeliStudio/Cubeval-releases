@@ -1,11 +1,11 @@
 {
-  "build": 61,
-  "version": "2.15",
-  "title": "Cubeval : La Ferme des Fées — 2.15",
+  "build": 62,
+  "version": "2.16",
+  "title": "Cubeval : La Ferme des Fées — 2.16",
   "published": true,
-  "notes": "• Aquarium : de vrais poissons ! Chacune des 19 espèces a son propre dessin en pixel art — écailles de la carpe, rayures de la perche, tête verte du saumon, fissures de lave du poisson de braise, facettes du poisson de cristal, taches de la koï…\n• Ils nagent pour de vrai : la queue bat, l'anguille ondule, chaque espèce a sa profondeur (le poisson-chat et l'esturgeon au fond, la truite luciole en surface) et sa taille suit ses centimètres\n• Les poissons qui brillent brillent (braise, cristal, lune, luciole, givre, or, koï), les épiques et légendaires laissent des étincelles, et les apprivoisés ont leur petit cœur\n• Le meuble aquarium de la maison montre enfin ses poissons (l'eau les cachait), aux couleurs de leur espèce\n• Les poissons ont leur vraie image partout : sac, carnet de pêche, coffre de vente, cuisine, cadeaux — et à l'annonce « Nouveau poisson ! »",
+  "notes": "• Quêtes de Luma (et des autres habitants de Lumécho) : la flèche et la carte ne pointent plus hors du monde — elles te guident vers le puits du village, où l'on descend la nuit, puis jusqu'à Luma une fois à Lumécho",
   "apk_min": 6,
-  "apk_version": "2.15",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.15.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.15.apk"
+  "apk_version": "2.16",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.16.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.16.apk"
 }
