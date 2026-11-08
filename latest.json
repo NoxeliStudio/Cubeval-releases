@@ -1,11 +1,11 @@
 {
-  "build": 59,
-  "version": "2.13",
-  "title": "Cubeval : La Ferme des Fées — 2.13",
+  "build": 60,
+  "version": "2.14",
+  "title": "Cubeval : La Ferme des Fées — 2.14",
   "published": true,
-  "notes": "• Palais de l'Arbre-Monde : la couronne de l'arbre est plus basse, bien visible depuis le village, et la caméra lève doucement les yeux vers elle quand tu marches vers ta maison",
+  "notes": "• Aquarium : chaque poisson apprivoisé rapporte maintenant des pièces trouvées dans le sable à chaque repas (20 % de son prix)\n• Familiers et index : les anciens bonus « santé », « défense » et « critique » deviennent pousse rapide, prix de vente et trouvailles — une seule icône par effet\n• Sac › Héroïne : plus de date en double, et la canne n'apparaît dans tes outils qu'une fois obtenue\n• Manette : changer d'outil ne sélectionne plus la canne avant de l'avoir\n• Atelier de couture : des mannequins de couture à la place des vieilles armures\n• Matières : on voit qu'elles servent aussi à agrandir le poulailler et l'étable, et à quoi servent les épiques\n• Corrections de textes (« animaux ») et grand ménage des restes de l'ancien mode combat",
   "apk_min": 6,
-  "apk_version": "2.13",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.13.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.13.apk"
+  "apk_version": "2.14",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.14.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.14.apk"
 }
