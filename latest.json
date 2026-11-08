@@ -1,11 +1,11 @@
 {
-  "build": 60,
-  "version": "2.14",
-  "title": "Cubeval : La Ferme des Fées — 2.14",
+  "build": 61,
+  "version": "2.15",
+  "title": "Cubeval : La Ferme des Fées — 2.15",
   "published": true,
-  "notes": "• Aquarium : chaque poisson apprivoisé rapporte maintenant des pièces trouvées dans le sable à chaque repas (20 % de son prix)\n• Familiers et index : les anciens bonus « santé », « défense » et « critique » deviennent pousse rapide, prix de vente et trouvailles — une seule icône par effet\n• Sac › Héroïne : plus de date en double, et la canne n'apparaît dans tes outils qu'une fois obtenue\n• Manette : changer d'outil ne sélectionne plus la canne avant de l'avoir\n• Atelier de couture : des mannequins de couture à la place des vieilles armures\n• Matières : on voit qu'elles servent aussi à agrandir le poulailler et l'étable, et à quoi servent les épiques\n• Corrections de textes (« animaux ») et grand ménage des restes de l'ancien mode combat",
+  "notes": "• Aquarium : de vrais poissons ! Chacune des 19 espèces a son propre dessin en pixel art — écailles de la carpe, rayures de la perche, tête verte du saumon, fissures de lave du poisson de braise, facettes du poisson de cristal, taches de la koï…\n• Ils nagent pour de vrai : la queue bat, l'anguille ondule, chaque espèce a sa profondeur (le poisson-chat et l'esturgeon au fond, la truite luciole en surface) et sa taille suit ses centimètres\n• Les poissons qui brillent brillent (braise, cristal, lune, luciole, givre, or, koï), les épiques et légendaires laissent des étincelles, et les apprivoisés ont leur petit cœur\n• Le meuble aquarium de la maison montre enfin ses poissons (l'eau les cachait), aux couleurs de leur espèce\n• Les poissons ont leur vraie image partout : sac, carnet de pêche, coffre de vente, cuisine, cadeaux — et à l'annonce « Nouveau poisson ! »",
   "apk_min": 6,
-  "apk_version": "2.14",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.14.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.14.apk"
+  "apk_version": "2.15",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.15.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.15.apk"
 }
