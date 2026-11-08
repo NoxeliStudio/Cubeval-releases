@@ -1,11 +1,11 @@
 {
-  "build": 56,
-  "version": "2.10",
-  "title": "Cubeval : La Ferme des Fées — 2.10",
+  "build": 57,
+  "version": "2.11",
+  "title": "Cubeval : La Ferme des Fées — 2.11",
   "published": true,
-  "notes": "• La Prairie des bêtes : un grand pré rien que pour tes animaux, derrière le portail en bois de ta ferme, avec l'enclos du poulailler à gauche et le pâturage de l'étable à droite\n• Poulailler et étable évoluent sur 5 niveaux, avec un nouveau look à chaque fois (nichoirs, fenil, girouette, silos, clocheton doré…) : jusqu'à 32 poules et 30 vaches et moutons\n• Avantages des niveaux : abreuvoir (amitié plus rapide), mangeoire automatique (les bêtes mangent le fourrage du sac chaque matin), litière douce (produits de qualité dès 4 cœurs), grand domaine (parfois deux produits)\n• Améliorations chez Gaston ou au tableau de l'élevage, à l'entrée du pré\n• Familier de la maison : choisis un de tes familiers (Maison → Décoration), il vit chez toi, se promène et vient te voir ; un câlin par jour donne +15 d'endurance\n• Coffre d'expédition : tu peux reprendre un seul objet (−1) ou une seule sorte d'objet, plus seulement tout d'un coup\n• Miroir : le bouton « Au hasard » qui cachait ton personnage est retiré\n• Plus d'endurance : seule l'horloge limite tes journées. Le bain thermal te fait lever à 5 h, la source des esprits arrose tout ton champ, et ton familier de la maison t'apporte une petite trouvaille chaque jour\n• Nouvelles bénédictions des gardiens : arrosoir intarissable (oasis), hache et pioche deux fois plus fortes (mine), houe et arrosoir sur une rangée de plus (volcan)\n• HUD plus petit et plus léger : jour, heure et date réunis en haut à gauche, boutons ronds, mini-carte et barre d'outils plus discrètes\n• Cils redessinés, bien plus visibles · accessoires en arc-en-ciel ou en couleurs changeantes\n• La pioche rebouche une case labourée vide\n• Nouveaux marchands : Björn (bois, pierre, fourrage), Olaf (poissons du Nord), Maître Vulcain (minerais) et Luma (trésors de Lumécho) · le carnet des habitants indique où trouver chaque marchand et ce qu'il vend\n• Pêche : un vrai fil et un bouchon qui flotte sur l'eau (fini le bouchon suspendu à la canne)\n• Les champions de l'index apparaissent enfin : un par contrée, qui change de coin chaque matin (à toi de le retrouver, la mini-carte le montre en doré)\n• Les récompenses de chaque quête sont affichées (or, cœurs, titre, familier…)\n• Fini les blocages : si tu tombes dans un creux ou sors d'un passage secret coincée, ton personnage grimpe tout seul le rebord\n• Une caresse par jour et par créature, même si tu relances le jeu\n• Les habitants gardent leurs distances : ils s'écartent quand tu passes au lieu de te coller, et ne choisissent plus l'endroit où tu te tiens",
+  "notes": "• Moins de scintillement : les façades (château, maisons, bâtiments) ne clignotent plus, surtout sur téléphone\n• Plus aucune matière épique dans les coûts : agrandissements de la maison, couture chez Prune, offrandes aux esprits et quête de Luma demandent à la place des matières rares (les épiques restent à vendre ou à cuisiner)",
   "apk_min": 6,
-  "apk_version": "2.10",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.10.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.10.apk"
+  "apk_version": "2.11",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.11.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.11.apk"
 }
