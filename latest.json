@@ -1,11 +1,11 @@
 {
-  "build": 65,
-  "version": "2.19",
-  "title": "Cubeval : La Ferme des Fées — 2.19",
+  "build": 66,
+  "version": "2.20",
+  "title": "Cubeval : La Ferme des Fées — 2.20",
   "published": true,
-  "notes": "• Explorer la campagne a enfin un but ! Des ressources repoussent chaque jour hors des contrées, différentes selon la région : bois, pierre, minerais, buissons, et à cueillir à la main : mûres, airelles, dattes, cèpes, coquillages sur la plage et objets qui brillent (or, graines, minerai, parfois une fleur de fée)\n• 48 curiosités cachées dans la campagne, six par région et six sur la plage (trèfle à quatre feuilles, rose des sables, géode, flocon éternel, bouteille à la mer…) : un album à compléter, de l'or par région complète, des fleurs d'étoile, deux titres et un familier rare\n• La carte se découvre en marchant : les coins jamais visités restent dans la brume. Pourcentage exploré et paliers récompensés (jusqu'au titre « Cartographe de Cubeval »)\n• 8 belvédères sur les hauteurs, avec leur longue-vue et leur drapeau rouge : regarde au loin pour dévoiler tout un pan de la carte\n• Le carnet de nature : approche-toi des animaux sauvages pour les noter (+30 or chacun, titre « Naturaliste de Cubeval » quand il est complet)\n• Menu › Exploration : la carte, les curiosités et le carnet de nature ; mûres, airelles, dattes et cèpes se cuisinent",
+  "notes": "• Une ferme qui grandit : des arroseurs (cuivre, argent, or) qui arrosent tout seuls chaque matin, chez le forgeron (Menu › Matériel)\n• La qualité des récoltes : ★ (+25 %) et ★★ (+50 %). L'engrais, l'engrais de qualité et l'engrais de croissance (chez Mira) en donnent bien plus. Le coffre vend d'abord les meilleures\n• Les cultures géantes : neuf choux, melons, citrouilles ou choux d'hiver mûrs en carré peuvent fusionner pendant la nuit (15 à 21 récoltes d'un coup)\n• Les machines de Gaston, à poser dans le champ : bocal à conserves, tonneau (jus), fromagerie, métier à tisser et ruche. Elles travaillent même la nuit\n• La mine de Cubeval, près du village : des étages qui changent chaque jour, l'échelle cachée sous un rocher, la glace, la lave, le cristal et les abysses, 7 gemmes, un coffre tous les 10 étages et un ascenseur tous les 5\n• Le tableau du village : neuf collections à livrer qui embellissent vraiment Cubeval (fleurs, fanions, citrouilles, barques, lampadaires, cristaux, banquet, bancs…), puis le Grand Bal et un feu d'artifice chaque soir\n• Le musée de Cubeval, sur la place : expose tes poissons, tes minerais et gemmes, et ta plus belle récolte ★★ de chaque culture\n• Les maîtrises : culture, élevage, pêche, cuisine, mine et exploration progressent en jouant, avec un talent à choisir aux niveaux 5 et 10\n• Chaque matin : le bilan des ventes de la nuit et le journal (météo de demain, prix du jour à +50 %, chance du jour, anniversaires et ce qu'ils adorent)\n• Des surprises : le marchand ambulant sur la place, un éclat d'étoile tombé dans la campagne, un petit animal blessé à soigner (il te laisse des cadeaux)\n• Les habitants parlent de la saison, de la météo, de leur anniversaire (🎂 au-dessus de leur tête), et se confient quand ils t'aiment bien ; récolter en chaîne fait monter la petite musique",
   "apk_min": 6,
-  "apk_version": "2.19",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.19.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.19.apk"
+  "apk_version": "2.20",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.20.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.20.apk"
 }
