@@ -1,11 +1,11 @@
 {
-  "build": 66,
-  "version": "2.20",
-  "title": "Cubeval : La Ferme des Fées — 2.20",
+  "build": 67,
+  "version": "2.21",
+  "title": "Cubeval : La Ferme des Fées — 2.21",
   "published": true,
-  "notes": "• Une ferme qui grandit : des arroseurs (cuivre, argent, or) qui arrosent tout seuls chaque matin, chez le forgeron (Menu › Matériel)\n• La qualité des récoltes : ★ (+25 %) et ★★ (+50 %). L'engrais, l'engrais de qualité et l'engrais de croissance (chez Mira) en donnent bien plus. Le coffre vend d'abord les meilleures\n• Les cultures géantes : neuf choux, melons, citrouilles ou choux d'hiver mûrs en carré peuvent fusionner pendant la nuit (15 à 21 récoltes d'un coup)\n• Les machines de Gaston, à poser dans le champ : bocal à conserves, tonneau (jus), fromagerie, métier à tisser et ruche. Elles travaillent même la nuit\n• La mine de Cubeval, près du village : des étages qui changent chaque jour, l'échelle cachée sous un rocher, la glace, la lave, le cristal et les abysses, 7 gemmes, un coffre tous les 10 étages et un ascenseur tous les 5\n• Le tableau du village : neuf collections à livrer qui embellissent vraiment Cubeval (fleurs, fanions, citrouilles, barques, lampadaires, cristaux, banquet, bancs…), puis le Grand Bal et un feu d'artifice chaque soir\n• Le musée de Cubeval, sur la place : expose tes poissons, tes minerais et gemmes, et ta plus belle récolte ★★ de chaque culture\n• Les maîtrises : culture, élevage, pêche, cuisine, mine et exploration progressent en jouant, avec un talent à choisir aux niveaux 5 et 10\n• Chaque matin : le bilan des ventes de la nuit et le journal (météo de demain, prix du jour à +50 %, chance du jour, anniversaires et ce qu'ils adorent)\n• Des surprises : le marchand ambulant sur la place, un éclat d'étoile tombé dans la campagne, un petit animal blessé à soigner (il te laisse des cadeaux)\n• Les habitants parlent de la saison, de la météo, de leur anniversaire (🎂 au-dessus de leur tête), et se confient quand ils t'aiment bien ; récolter en chaîne fait monter la petite musique",
+  "notes": "• Un tout nouveau musée, bien plus grand, sur la pelouse entre la porte nord et la place : colonnes, fronton, toit bleu et doré, bannières et lanternes\n• À l'intérieur : un vrai aquarium où l'on voit enfin les poissons donnés (et l'ombre de ceux qui manquent), des socles pour les minerais et les gemmes, des vitrines pour les récoltes ★★, un tapis rouge, des lustres et la statue de la fée\n• La carte indique le musée, la mine (même dans la brume) et les deux chemins de la plage\n• Deux chemins descendent maintenant du village à la plage, de part et d'autre de la ferme, avec un panneau : ta maison ne bloque plus le passage",
   "apk_min": 6,
-  "apk_version": "2.20",
-  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.20.apk",
-  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.20.apk"
+  "apk_version": "2.21",
+  "apk_url": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.21.apk",
+  "apk_raw": "https://raw.githubusercontent.com/NoxeliStudio/Cubeval-Releases/main/apk/Cubeval-2.21.apk"
 }
